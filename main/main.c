@@ -59,7 +59,7 @@
 // Parametros de frecuencia de ping y tiempo de ping
 #define CONFIG_SEND_FREQUENCY      100
 #define MUESTREO 10
-
+// Comiteando
 // Definicion de OFF y ON para el LED
 #define OFF 0
 #define ON 1
