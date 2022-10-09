@@ -65,7 +65,7 @@
 #define ON 1
 
 // Definicion plataforma que se utilice ----> Opciones: PROTOBOARD | WIMUMO | PLACA
-#define PLACA 1
+#define PROTOBOARD 1
 
 #ifdef PROTOBOARD
     #define PULSADOR GPIO_NUM_36

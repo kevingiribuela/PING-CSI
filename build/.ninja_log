@@ -2271,3 +2271,13 @@
 3558	7943	6858452224489098	wimumo.elf	9ca1b496c13ac34f
 7943	8386	6858452229272888	.bin_timestamp	5b022ac50584dfd8
 8386	8522	0	esp-idf/esptool_py/CMakeFiles/app_check_size	5b2c67709e593c13
+124	508	6843828519820467	bootloader-prefix/src/bootloader-stamp/bootloader-build	82df197d32fed8b3
+124	508	6843828519820467	bootloader/bootloader.elf	82df197d32fed8b3
+124	508	6843828519820467	bootloader/bootloader.bin	82df197d32fed8b3
+124	508	6843828519820467	bootloader/bootloader.map	82df197d32fed8b3
+131	2095	6870362609748713	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	6211546b9845a77
+2095	2286	6870362611751441	esp-idf/main/libmain.a	615dc941b5e6fc7c
+2286	6940	6870362657736629	esp-idf/esp_system/ld/sections.ld	b8b347c61b66583
+6940	12520	6870362713739371	wimumo.elf	9ca1b496c13ac34f
+12521	13097	6870362719817427	.bin_timestamp	5b022ac50584dfd8
+13097	13252	0	esp-idf/esptool_py/CMakeFiles/app_check_size	5b2c67709e593c13
