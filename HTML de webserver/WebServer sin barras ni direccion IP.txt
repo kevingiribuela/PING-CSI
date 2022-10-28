@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<form action="/data" method="GET">
+      <h1>ESP32 Wi-Fi configuration </h1>
+        <strong>SSID:</strong> <input type="text" name="SSID"><br>
+        <strong>PSWD:</strong> <input type="text" name="PSWD"><br><br>
+        <input type="radio" id="b" name="PROTOCOLO" value="b">
+        <label for="b">802.11b</label><br>
+        <input type="radio" id="bg" name="PROTOCOLO" value="bg">
+        <label for="bg">802.11bg</label><br>
+        <input type="radio" id="bgn" name="PROTOCOLO" value="bgn">
+        <label for="bgn">802.11bgn</label><br><br>
+        
+        <label for="nro-canal">CANAL:</label>
+        <select name="nro-canal" id="nro-canal">
+            <option value="1">Canal 1</option>
+            <option value="2">Canal 2</option>
+            <option value="3">Canal 3</option>
+            <option value="4">Canal 4</option>
+            <option value="5">Canal 5</option>
+            <option value="6">Canal 6</option>
+            <option value="7">Canal 7</option>
+            <option value="8">Canal 8</option>
+            <option value="9">Canal 9</option>
+            <option value="10">Canal 10</option>
+            <option value="11">Canal 11</option>
+        </select><br><br>
+        <input type="submit" value="Enviar datos" onclick="alert('Datos cargados!')"><br><br>
+    </form>
+</body>
+</html>
