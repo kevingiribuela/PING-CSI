@@ -29,7 +29,6 @@ Este software se ha utilizado para relevar de manera experimental el patrón de 
 
 Si bien las imagenes anterior no se obtuvieron con el software previo, da una idea de lo que se espera al tomar muestras. A continuación se muestra un diagrama polar de las diferentes ganancias obtenidas en función de la polarización de la antena del ESP32 con un router, para obtener una idea coherente de los datos medidos, se realiza una interpolación polinómica.
 
-<img src="https://github.com/kevingiribuela/PING-CSI/blob/master/Imagenes/polX_rotZ.png?raw=true">
-<img src="https://github.com/kevingiribuela/PING-CSI/blob/master/Imagenes/polZ_rotX.png?raw=true">
-<img src="https://github.com/kevingiribuela/PING-CSI/blob/master/Imagenes/polZ_rotZ.png?raw=true">
-<img src="https://github.com/kevingiribuela/PING-CSI/blob/master/Imagenes/polx_rotX.png?raw=true">
+<img src="https://github.com/kevingiribuela/PING-CSI/blob/master/Imagenes/esp32b.png?raw=true">
+<img src="https://github.com/kevingiribuela/PING-CSI/blob/master/Imagenes/esp32.png?raw=true">
+
